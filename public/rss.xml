@@ -7,8 +7,8 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DesTinGLab</title>
-        <link>https://desultory.icu/</link>
+        <title>白•Desultory</title>
+        <link>https://desultory.space/</link>
         <description>Game,tech,life,love</description>
         <generator>Hugo 0.64.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 07 Jun 2021 10:47:15 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 11:07:45 +0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://desultory.icu/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://desultory.space/rss.xml" />
         
         
             <item>
                 <title>RyobaBeta-01</title>
-                <link>https://desultory.icu/posts/ryoba/ryobetaproj001/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/ryoba/ryobetaproj001/</guid>
+                <link>https://desultory.space/posts/ryoba/ryobetaproj001/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/ryoba/ryobetaproj001/</guid>
                 <pubDate>Tue, 04 May 2021 21:29:17 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -80,7 +80,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -88,7 +88,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/ryoba/">Ryoba</category>
+                                <category domain="https://desultory.space/posts/ryoba/">Ryoba</category>
                             
                         
                     
@@ -101,7 +101,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/ryoba/">Ryoba</category>
+                                    <category domain="https://desultory.space/tags/ryoba/">Ryoba</category>
                                 
                             
                         
@@ -111,8 +111,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
         
             <item>
                 <title>政协Logo设计案001</title>
-                <link>https://desultory.icu/posts/thoughts/logo/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/thoughts/logo/</guid>
+                <link>https://desultory.space/posts/thoughts/logo/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/thoughts/logo/</guid>
                 <pubDate>Sun, 18 Apr 2021 13:30:09 +0800</pubDate>
                 
                 
@@ -168,7 +168,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -176,7 +176,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/thoughts/">thoughts</category>
+                                <category domain="https://desultory.space/posts/thoughts/">thoughts</category>
                             
                         
                     
@@ -189,7 +189,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/wuhuno.1/">WuHuNO.1</category>
+                                    <category domain="https://desultory.space/tags/wuhuno.1/">WuHuNO.1</category>
                                 
                             
                         
@@ -199,8 +199,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
         
             <item>
                 <title>Manim003</title>
-                <link>https://desultory.icu/posts/python/manim003/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/python/manim003/</guid>
+                <link>https://desultory.space/posts/python/manim003/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/python/manim003/</guid>
                 <pubDate>Mon, 19 Oct 2020 15:21:20 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -542,7 +542,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -550,7 +550,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/python/">Python</category>
+                                <category domain="https://desultory.space/posts/python/">Python</category>
                             
                         
                     
@@ -563,13 +563,13 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/python/">Python</category>
+                                    <category domain="https://desultory.space/tags/python/">Python</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/develop/">Develop</category>
+                                    <category domain="https://desultory.space/tags/develop/">Develop</category>
                                 
                             
                                 
@@ -583,8 +583,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
         
             <item>
                 <title>HugoShortcodes</title>
-                <link>https://desultory.icu/posts/website/hugoshortcodes/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/website/hugoshortcodes/</guid>
+                <link>https://desultory.space/posts/website/hugoshortcodes/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/website/hugoshortcodes/</guid>
                 <pubDate>Sat, 19 Sep 2020 23:40:39 +0800</pubDate>
                 
                 
@@ -1403,7 +1403,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -1411,7 +1411,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/website/">website</category>
+                                <category domain="https://desultory.space/posts/website/">website</category>
                             
                         
                     
@@ -1424,7 +1424,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://desultory.space/tags/%E6%97%A5%E5%BF%97/">日志</category>
                                 
                             
                         
@@ -1434,8 +1434,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
         
             <item>
                 <title>乡土中国</title>
-                <link>https://desultory.icu/posts/thoughts/reading001/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/thoughts/reading001/</guid>
+                <link>https://desultory.space/posts/thoughts/reading001/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/thoughts/reading001/</guid>
                 <pubDate>Fri, 18 Sep 2020 23:10:51 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -1489,7 +1489,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -1497,7 +1497,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/thoughts/">thoughts</category>
+                                <category domain="https://desultory.space/posts/thoughts/">thoughts</category>
                             
                         
                     
@@ -1510,7 +1510,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/reading/">READING</category>
+                                    <category domain="https://desultory.space/tags/reading/">READING</category>
                                 
                             
                         
@@ -1520,8 +1520,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
         
             <item>
                 <title>论Manim在教学中的应用</title>
-                <link>https://desultory.icu/posts/python/manim002/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/python/manim002/</guid>
+                <link>https://desultory.space/posts/python/manim002/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/python/manim002/</guid>
                 <pubDate>Fri, 28 Aug 2020 16:24:54 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -1812,7 +1812,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -1820,7 +1820,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/python/">Python</category>
+                                <category domain="https://desultory.space/posts/python/">Python</category>
                             
                         
                     
@@ -1833,13 +1833,13 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/python/">Python</category>
+                                    <category domain="https://desultory.space/tags/python/">Python</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/develop/">Develop</category>
+                                    <category domain="https://desultory.space/tags/develop/">Develop</category>
                                 
                             
                                 
@@ -1853,8 +1853,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
         
             <item>
                 <title>Manim的初应用</title>
-                <link>https://desultory.icu/posts/python/manim001/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/python/manim001/</guid>
+                <link>https://desultory.space/posts/python/manim001/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/python/manim001/</guid>
                 <pubDate>Wed, 05 Aug 2020 12:37:27 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2122,7 +2122,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2130,7 +2130,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/python/">Python</category>
+                                <category domain="https://desultory.space/posts/python/">Python</category>
                             
                         
                     
@@ -2143,19 +2143,19 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/python/">Python</category>
+                                    <category domain="https://desultory.space/tags/python/">Python</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/develop/">Develop</category>
+                                    <category domain="https://desultory.space/tags/develop/">Develop</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/manim/">Manim</category>
+                                    <category domain="https://desultory.space/tags/manim/">Manim</category>
                                 
                             
                         
@@ -2165,8 +2165,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
         
             <item>
                 <title>BFS-knight</title>
-                <link>https://desultory.icu/posts/develop/bfs/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/develop/bfs/</guid>
+                <link>https://desultory.space/posts/develop/bfs/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/develop/bfs/</guid>
                 <pubDate>Sun, 14 Jun 2020 23:31:11 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2330,7 +2330,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2338,7 +2338,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/develop/">develop</category>
+                                <category domain="https://desultory.space/posts/develop/">develop</category>
                             
                         
                     
@@ -2351,13 +2351,13 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/%E7%AE%97%E6%B3%95/">算法</category>
+                                    <category domain="https://desultory.space/tags/%E7%AE%97%E6%B3%95/">算法</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/bfs/">BFS</category>
+                                    <category domain="https://desultory.space/tags/bfs/">BFS</category>
                                 
                             
                         
@@ -2367,8 +2367,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
         
             <item>
                 <title>使用VSCODE学习Python</title>
-                <link>https://desultory.icu/posts/python/firstatall/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/python/firstatall/</guid>
+                <link>https://desultory.space/posts/python/firstatall/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/python/firstatall/</guid>
                 <pubDate>Wed, 10 Jun 2020 22:26:02 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2498,7 +2498,7 @@ C:\&gt; _
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2506,7 +2506,7 @@ C:\&gt; _
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/python/">Python</category>
+                                <category domain="https://desultory.space/posts/python/">Python</category>
                             
                         
                     
@@ -2519,13 +2519,13 @@ C:\&gt; _
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/python/">Python</category>
+                                    <category domain="https://desultory.space/tags/python/">Python</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/develop/">Develop</category>
+                                    <category domain="https://desultory.space/tags/develop/">Develop</category>
                                 
                             
                         
@@ -2535,8 +2535,8 @@ C:\&gt; _
         
             <item>
                 <title>DotNet</title>
-                <link>https://desultory.icu/posts/develop/dotnet/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/develop/dotnet/</guid>
+                <link>https://desultory.space/posts/develop/dotnet/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/develop/dotnet/</guid>
                 <pubDate>Fri, 17 Apr 2020 23:39:34 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2564,7 +2564,7 @@ C:\&gt; _
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2572,7 +2572,7 @@ C:\&gt; _
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/develop/">develop</category>
+                                <category domain="https://desultory.space/posts/develop/">develop</category>
                             
                         
                     
@@ -2585,13 +2585,13 @@ C:\&gt; _
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://desultory.space/tags/%E6%97%A5%E5%BF%97/">日志</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/windows/">Windows</category>
+                                    <category domain="https://desultory.space/tags/windows/">Windows</category>
                                 
                             
                         
@@ -2601,8 +2601,8 @@ C:\&gt; _
         
             <item>
                 <title>Hello World</title>
-                <link>https://desultory.icu/posts/website/hello-world/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/website/hello-world/</guid>
+                <link>https://desultory.space/posts/website/hello-world/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/website/hello-world/</guid>
                 <pubDate>Thu, 16 Apr 2020 09:10:51 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2623,7 +2623,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2631,7 +2631,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/website/">website</category>
+                                <category domain="https://desultory.space/posts/website/">website</category>
                             
                         
                     
@@ -2644,13 +2644,13 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/hugo/">Hugo</category>
+                                    <category domain="https://desultory.space/tags/hugo/">Hugo</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/meme/">“MemE”</category>
+                                    <category domain="https://desultory.space/tags/meme/">“MemE”</category>
                                 
                             
                         
@@ -2660,8 +2660,8 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
         
             <item>
                 <title>Where&#39;s Home project</title>
-                <link>https://desultory.icu/posts/thoughts/wheres-home-project/</link>
-                <guid isPermaLink="true">https://desultory.icu/posts/thoughts/wheres-home-project/</guid>
+                <link>https://desultory.space/posts/thoughts/wheres-home-project/</link>
+                <guid isPermaLink="true">https://desultory.space/posts/thoughts/wheres-home-project/</guid>
                 <pubDate>Sun, 16 Feb 2020 09:10:51 +0800</pubDate>
                 
                     <author>huahaohui@gmail.com (Desultory)</author>
@@ -2801,7 +2801,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/">posts</category>
+                                <category domain="https://desultory.space/posts/">posts</category>
                             
                         
                     
@@ -2809,7 +2809,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                         
                         
                             
-                                <category domain="https://desultory.icu/posts/thoughts/">thoughts</category>
+                                <category domain="https://desultory.space/posts/thoughts/">thoughts</category>
                             
                         
                     
@@ -2822,13 +2822,13 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/">游戏策划</category>
+                                    <category domain="https://desultory.space/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/">游戏策划</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://desultory.icu/tags/unity/">Unity</category>
+                                    <category domain="https://desultory.space/tags/unity/">Unity</category>
                                 
                             
                         
