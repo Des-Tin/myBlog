@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://desultory.space/posts/develop/csharp01/</loc>
+    <lastmod>2021-06-08T13:03:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://desultory.space/</loc>
+    <lastmod>2021-06-08T13:03:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://desultory.space/tags/ryoba/</loc>
     <lastmod>2021-05-08T23:44:24+08:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://desultory.space/tags/</loc>
-    <lastmod>2021-05-08T23:44:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://desultory.space/</loc>
     <lastmod>2021-05-08T23:44:24+08:00</lastmod>
   </url>
   

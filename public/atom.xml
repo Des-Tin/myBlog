@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白Notes</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-07T13:56:16+08:00</updated>
+    <updated>2021-06-08T13:04:13+08:00</updated>
     <id>https://desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://desultory.space/atom.xml" />
@@ -16,6 +16,74 @@
             </author>
     <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.64.1">Hugo</generator>
+        <entry>
+            <title type="text">Csharp01</title>
+            <link rel="alternate" type="text/html" href="https://desultory.space/posts/develop/csharp01/" />
+            <id>https://desultory.space/posts/develop/csharp01/</id>
+            <updated>2021-06-08T13:03:30+08:00</updated>
+            <published>2021-06-08T12:37:24+08:00</published>
+            <author>
+                    <name>Desultory</name>
+                    <uri>https://desultory.space</uri>
+                    <email>huahaohui@gmail.com</email>
+                    </author>
+            <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights><summary type="html"><![CDATA[The notes of csharp 常见数据类型 1 2 3 4 5 6 int long bool double string decmal 运算 条件判断 循环]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="the-notes-of-csharp">The notes of csharp</h1>
+<h2 id="常见数据类型">常见数据类型</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c#" data-lang="c#"><span class="kt">int</span>
+<span class="kt">long</span>
+<span class="kt">bool</span>
+<span class="kt">double</span>
+<span class="kt">string</span>
+<span class="n">decmal</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="运算">运算</h2>
+<h2 id="条件判断">条件判断</h2>
+<h2 id="循环">循环</h2>
+]]></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://desultory.space/posts/develop/" term="develop" label="develop" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">RyobaBeta-01</title>
             <link rel="alternate" type="text/html" href="https://desultory.space/posts/ryoba/ryobetaproj001/" />
