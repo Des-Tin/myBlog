@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白Notes</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-08T13:40:01+08:00</updated>
+    <updated>2021-06-17T14:49:26+08:00</updated>
     <id>https://desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://desultory.space/atom.xml" />
@@ -16,6 +16,154 @@
             </author>
     <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.64.1">Hugo</generator>
+        <entry>
+            <title type="text">Apixels</title>
+            <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/apixels/" />
+            <id>https://desultory.space/posts/thoughts/apixels/</id>
+            <updated>2021-06-17T14:48:43+08:00</updated>
+            <published>2021-06-17T12:48:54+08:00</published>
+            <author>
+                    <name>Desultory</name>
+                    <uri>https://desultory.space</uri>
+                    <email>huahaohui@gmail.com</email>
+                    </author>
+            <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[本游戏企划所有版权由草台班子（GrassRoots Studio）游戏工作室所有。 《一……]]></summary>
+            
+                <content type="html"><![CDATA[
+<div class="notice notice-warning" >
+    <div class="notice-title"><svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 576 512"><path d="M570 440c18 32-5 72-42 72H48c-37 0-60-40-42-72L246 24c19-32 65-32 84 0l240 416zm-282-86a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/></svg></div><p>本游戏企划所有版权由草台班子（GrassRoots Studio）游戏工作室所有。</p></div>
+<h1 id="一粒像素apixels游戏企划">《一粒像素》（Apixels）游戏企划</h1>
+<h2 id="策划设定">策划设定</h2>
+<h3 id="概览">概览</h3>
+<ul>
+<li>开发平台：UNITY3D</li>
+<li>游戏风格：2D 像素</li>
+<li>游戏类型：弹幕躲避、收藏养成、回合制对战、音乐节奏</li>
+<li>受众人群：休闲、音游玩家</li>
+<li>发布平台：全平台（前期考虑web）</li>
+<li>开发人数：7-8（美术*4 、主程序*1、策划*1、服务端*1）</li>
+</ul>
+<h2 id="游戏背景设定">游戏背景设定</h2>
+<h3 id="世界观">世界观</h3>
+<h4 id="皮克索斯世界">皮克索斯世界</h4>
+<h5 id="起源">起源</h5>
+<p>因为显示技术的不够完善，游戏只能通过一个个方块来表示物体，像素风格就此诞生。伴随着游戏发展和风靡，玩家们的热情和爱融入到了像素们的身上，它们有了意识。悄然间，在人们不知道的地方……一个属于像素的世界诞生了。</p>
+<h5 id="神降">神降</h5>
+<p>一粒粒有意识的像素，开始活动。就在无规律的活动中，元像素（MetaPixel）出现了。最先出现的是八个巨大且光亮的元像素，这八个元像素聚起了个八个像素团，开始化作了八个不同的身影，祂们一同诞生。祂们分别是：现实之「喵」、命运之「兔」、空想之「鹿」、创世之「白」、机械之「加」、坚定之「雪」、生命之「栗」、规则之「梓」。</p>
+<h5 id="创世">创世</h5>
+<p>八位神灵看着漆黑空洞的世界，处在这个世界的祂们还有那无序乱动着的像素。祂们想要让世界充满活力，于是便开始用着最纯粹的力量：
+「梓」以规则引导像素们聚合，「雪」稳固着世界的根基，「栗」赋予它们以生命，「鹿」「喵」「加」以属性为引塑造了【现实】、【空想】、【机械】三大种族，「兔」用命运之线构建起了“万素”的轨迹，「白」用创世之力将一切都汇聚在一起 形成了皮克索斯世界。</p>
+<h5 id="归去">归去</h5>
+<p>八位神灵在创世过程中，耗尽了元像素的力量，陷入了沉睡。</p>
+<h4 id="基本概念">基本概念</h4>
+<h5 id="像素pix">像素（Pix）</h5>
+<p>一种无意识的物质，是皮克索斯世界的根本组成要素。
+因为将能量固定的时间是固定的，因此可作为货币使用。
+（事实上皮克索斯世界的通用货币就是像素）
+自创世之后，受「梓」的规则之力约束，失去能量-物质的同在性，在静止后只以像素形式存在。</p>
+<h5 id="素能pie">素能（PiE）</h5>
+<p>一种特殊能量，是像素的能量态。因受到「梓」的规则之力约束，像素只能以能量形式运动。</p>
+<h5 id="元像素metapixel">元像素（MetaPixel）</h5>
+<p>一种具有意识的特殊物质，可以聚合无主像素。主要由素能（Pie）、像素（Pix）在亲代元像素（需要两个）的引导下形成。现存所有像素生灵的元像素都是由 三大神元像素（【现实】【空想】【机械】） 引导，从神元像素中分离出来的。
+神元像素的产生方式未知。（产生方式是项目组加入）</p>
+<h5 id="聚合像素multipixel">聚合像素（MultiPixel）</h5>
+<p>由元像素聚合无主像素产生的像素生命的总称。</p>
+<h5 id="像素属性pixelrace">像素属性（PixelRace）</h5>
+<p>聚合像素的属性，可以理解为种族，分别是三大神元像素（【现实】【空想】【机械】）所引导的不同类别的像素。
+现实（现实存在）；空想（空想事物） ；机械（机械or半机械事物）
+克制关系：机械———》现实————》空想————》机械</p>
+<h5 id="像素序列pixelformation像素等级pixellevel">像素序列（PixelFormation）&amp;像素等级（PixelLevel）</h5>
+<ul>
+<li>
+<p>可以构成进化关系的一组聚合像素称之为聚合像素。</p>
+<ul>
+<li>聚合像素的位阶（稀有度）正序为：普通（N）、稀有（R）、史诗（Ep）、天外（Ex）</li>
+<li>每一个低稀有度可以由三个相同的，进化成下一稀有度，天外最高。
+<ul>
+<li>如3个N可以进化成一个R……</li>
+</ul>
+</li>
+<li>不同序列之间是有压制关系的：
+<ul>
+<li><em>例：序列A本身强度强于序列B，则有可能出现同等级，序列A的普通（N）打败序列B的稀有（R）甚至史诗（Ep）的情况。</em></li>
+</ul>
+</li>
+<li>同一序列里<strong>同等级</strong>的<strong>聚合像素</strong>的<strong>强度</strong>一定是按照<strong>稀有度降序</strong></li>
+</ul>
+</li>
+<li>
+<p>聚合像素所吸收的素能可以数据化成像素等级：同一聚合像素等级越高，强度越高。</p>
+</li>
+<li>
+<p>注：常见的一条序列里最多<strong>4</strong>个位阶，最低<strong>1</strong>个位阶（即有可能出现只有一个孤寡位阶的“寡王”序列）</p>
+</li>
+<li>
+<p>注：同一序列里不同位阶的聚合像素虽然相似但是不同。</p>
+</li>
+<li>
+<p>实例：「吐兔」序列，该序列一共有四个阶段。普通、稀有、史诗、天外，分别是 mini兔 兔叽 吐兔 兔总（吐兔的这几个具体名字 还得想想，先类比一下）</p>
+<ul>
+<li>三个mini兔 = 一个兔叽，三个兔叽 = 一个吐兔， 三个兔兔 = 一个兔总。</li>
+</ul>
+</li>
+</ul>
+<h2 id="游戏玩法设定">游戏玩法设定</h2>
+<h2 id="游戏美术设定">游戏美术设定</h2>
+<h2 id="剧情设定">剧情设定</h2>
+]]></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                        
+                    
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://desultory.space/tags/%E6%B8%B8%E6%88%8F/" term="游戏" label="游戏" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://desultory.space/tags/unity/" term="Unity" label="Unity" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://desultory.space/tags/%E4%BC%81%E5%88%92/" term="企划" label="企划" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Csharp01</title>
             <link rel="alternate" type="text/html" href="https://desultory.space/posts/develop/csharp01/" />
@@ -2970,6 +3118,134 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                                 <category scheme="https://desultory.space/tags/unity/" term="Unity" label="Unity" />
                             
                         
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://desultory.space/posts/more-actionsperiodactivitys6/" />
+            <id>https://desultory.space/posts/more-actionsperiodactivitys6/</id>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <author>
+                    <name>Desultory</name>
+                    <uri>https://desultory.space</uri>
+                    <email>huahaohui@gmail.com</email>
+                    </author>
+            <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights><summary type="html"><![CDATA[Period Activitys      6.14-1 背书-诗 字词练习（10）   6.14-2 默写-诗 病句   6.14-3 文言练习（10） 背书-古文   6.15-1 背书-古文 字词练习（10）   6.15-2 默写-古文 字词练习（10）   6.15-3 文言练习（10） 背书-诗   6.16-1 背书-诗 字词练习（10）   6.]]></summary>
+            
+                <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th align="center">Period</th>
+<th align="center">Activitys</th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">6.14-1</td>
+<td align="center">背书-诗</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.14-2</td>
+<td align="center">默写-诗</td>
+<td align="center">病句</td>
+</tr>
+<tr>
+<td align="center">6.14-3</td>
+<td align="center">文言练习（10）</td>
+<td align="center">背书-古文</td>
+</tr>
+<tr>
+<td align="center">6.15-1</td>
+<td align="center">背书-古文</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.15-2</td>
+<td align="center">默写-古文</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.15-3</td>
+<td align="center">文言练习（10）</td>
+<td align="center">背书-诗</td>
+</tr>
+<tr>
+<td align="center">6.16-1</td>
+<td align="center">背书-诗</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.16-2</td>
+<td align="center">默写-诗</td>
+<td align="center">字音练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.16-3</td>
+<td align="center">病句练习（10）</td>
+<td align="center">背书-古文</td>
+</tr>
+<tr>
+<td align="center">6.17-1</td>
+<td align="center">背书-古文</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.17-2</td>
+<td align="center">默写-古文</td>
+<td align="center">字音练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.17-3</td>
+<td align="center">文言练习（10）</td>
+<td align="center">背书-文言虚实词</td>
+</tr>
+<tr>
+<td align="center">6.18-1</td>
+<td align="center">背书-文言虚实词</td>
+<td align="center">字词练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.18-2</td>
+<td align="center">默写-文言虚实词</td>
+<td align="center">字音练习（10）</td>
+</tr>
+<tr>
+<td align="center">6.18-3</td>
+<td align="center">文言练习（10）</td>
+<td align="center">背书-总结</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                        
+                    
+                
+            
+            
+            
+                
                     
                 
             
