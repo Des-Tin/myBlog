@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白Notes</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-17T14:58:19+08:00</updated>
+    <updated>2021-06-17T15:05:27+08:00</updated>
     <id>https://desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://desultory.space/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Apixels</title>
             <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/apixels/" />
             <id>https://desultory.space/posts/thoughts/apixels/</id>
-            <updated>2021-06-17T14:58:14+08:00</updated>
+            <updated>2021-06-17T15:05:09+08:00</updated>
             <published>2021-06-17T12:48:54+08:00</published>
             <author>
                     <name>Desultory</name>
@@ -110,8 +110,33 @@
 </li>
 </ul>
 <h2 id="游戏玩法设定">游戏玩法设定</h2>
+<h3 id="单人">单人</h3>
+<h4 id="主要玩法">主要玩法</h4>
+<h4 id="社交拓展">社交拓展</h4>
+<h3 id="多人暂缓">多人（暂缓）</h3>
 <h2 id="游戏美术设定">游戏美术设定</h2>
+<h3 id="尺寸">尺寸</h3>
+<ul>
+<li>普通（common）：32*32（px）</li>
+<li>稀有（rare）：64*64（px）</li>
+<li>史诗（epic）：128*128（px）</li>
+<li>天外（exotic）：128*128（px）<strong>【加上光源材质】</strong></li>
+</ul>
 <h2 id="剧情设定">剧情设定</h2>
+<h3 id="大致主线">大致主线</h3>
+<p>一个平面设计师工作时，发现一个像素乱动，其后(怎么样才合理)进入皮克索世界（由N大主神创造，分别为（制作组）「开始中二」），然后就变成了一个像素/操纵一个像素，通过结识其他有机像素，开始旅程。<br>
+过程中发现 “矢量”入侵并控制了一部分 聚合像素 来消灭其他聚合像素。<br>
+于是玩家踏上了收集聚合像素并打败其他受矢量控制的聚合像素之路。</p>
+<h2 id="ver10">ver1.0</h2>
+<h3 id="构建内容">构建内容</h3>
+<ul>
+<li>账号系统 （云存档）</li>
+<li>第一个初始小镇</li>
+<li>对战 捕捉系统</li>
+<li>商店 货币系统</li>
+<li>24只 聚合像素 （6个序列）</li>
+<li>野外场景搭建</li>
+</ul>
 ]]></content>
             
             
