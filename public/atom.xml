@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白Notes</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-17T15:07:55+08:00</updated>
+    <updated>2021-06-19T00:16:33+08:00</updated>
     <id>https://desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://desultory.space/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">《一粒像素》（Apixels）游戏企划</title>
             <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/apixels/" />
             <id>https://desultory.space/posts/thoughts/apixels/</id>
-            <updated>2021-06-17T15:07:35+08:00</updated>
+            <updated>2021-06-19T00:15:52+08:00</updated>
             <published>2021-06-17T12:48:54+08:00</published>
             <author>
                     <name>Desultory</name>
@@ -124,9 +124,9 @@
 </ul>
 <h2 id="剧情设定">剧情设定</h2>
 <h3 id="大致主线">大致主线</h3>
-<p>一个平面设计师工作时，发现一个像素乱动，其后(怎么样才合理)进入皮克索世界（由N大主神创造，分别为（制作组）「开始中二」），然后就变成了一个像素/操纵一个像素，通过结识其他有机像素，开始旅程。<br>
-过程中发现 “矢量”入侵并控制了一部分 聚合像素 来消灭其他聚合像素。<br>
-于是玩家踏上了收集聚合像素并打败其他受矢量控制的聚合像素之路。</p>
+<p>我（平面设计师） 发现自己的电脑屏幕有个像素在疯狂乱动，盯了一会儿，突然进入了皮克索世界（由N大主神创造，分别为（制作组）「开始中二」）， 然后发现自己是一个小“像素”（实际是一个元像素）。然后摸索到新手村（得取个名字），然后在热心的村民（有曼德拉草族…还有你们继续加）的帮助下开始构建起自己的聚合像素形象和特性（初始像素）。在熟悉这个世界的过程里，村子遭到反派攻击 。<br>
+袭击过后发现村子外围充满了迷雾（长时间待久了会失去理智，同时迷雾会间或地散去，但是已经失去理智的聚合像素不会主动恢复），同时还有大量的失去理智的聚合像素。
+于是我 开始了去解救聚合像素 并邀请他们加入小队</p>
 <h2 id="ver10">ver1.0</h2>
 <h3 id="构建内容">构建内容</h3>
 <ul>
