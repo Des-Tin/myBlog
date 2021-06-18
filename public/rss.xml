@@ -23,7 +23,7 @@
         
             <copyright>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 19 Jun 2021 00:34:19 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 00:54:39 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://desultory.space/rss.xml" />
         
@@ -122,8 +122,15 @@
 <h4 id="社交拓展">社交拓展</h4>
 <h3 id="多人暂缓">多人（暂缓）</h3>
 <h2 id="游戏美术设定">游戏美术设定</h2>
+<h3 id="拟人规则">拟人规则</h3>
+<ul>
+<li>如果是有进化序列的话 最后一个拟人。</li>
+<li>例子：草 小草 大草 老草  ；猫崽崽 小猫   ；小花 花 大花<br>
+拟人的是老草 小猫 大花</li>
+</ul>
 <h3 id="尺寸">尺寸</h3>
 <ul>
+<li>尺寸是指画布尺寸，实际内容可以小于画布。</li>
 <li>角色立绘
 <ul>
 <li>256*256（px）</li>
