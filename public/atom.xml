@@ -2,15 +2,15 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">白Notes</title>
+    <title type="text">白的天马行空</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-19T00:57:46+08:00</updated>
-    <id>https://desultory.space/</id>
-    <link rel="alternate" type="text/html" href="https://desultory.space/" />
-    <link rel="self" type="application/atom+xml" href="https://desultory.space/atom.xml" />
+    <updated>2021-06-20T23:21:30+08:00</updated>
+    <id>https://blog.desultory.space/</id>
+    <link rel="alternate" type="text/html" href="https://blog.desultory.space/" />
+    <link rel="self" type="application/atom+xml" href="https://blog.desultory.space/atom.xml" />
     <author>
             <name>Desultory</name>
-            <uri>https://desultory.space/</uri>
+            <uri>https://blog.desultory.space/</uri>
             
                 <email>huahaohui@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.64.1">Hugo</generator>
         <entry>
             <title type="text">《一粒像素》（Apixels）游戏企划</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/apixels/" />
-            <id>https://desultory.space/posts/thoughts/apixels/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/apixels/" />
+            <id>https://blog.desultory.space/posts/thoughts/apixels/</id>
             <updated>2021-06-19T00:53:05+08:00</updated>
             <published>2021-06-17T12:48:54+08:00</published>
             <author>
@@ -164,7 +164,7 @@
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -172,7 +172,7 @@
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
+                            <category scheme="https://blog.desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
                         
                     
                 
@@ -185,19 +185,19 @@
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%B8%B8%E6%88%8F/" term="游戏" label="游戏" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%B8%B8%E6%88%8F/" term="游戏" label="游戏" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/unity/" term="Unity" label="Unity" />
+                                <category scheme="https://blog.desultory.space/tags/unity/" term="Unity" label="Unity" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E4%BC%81%E5%88%92/" term="企划" label="企划" />
+                                <category scheme="https://blog.desultory.space/tags/%E4%BC%81%E5%88%92/" term="企划" label="企划" />
                             
                         
                     
@@ -207,8 +207,8 @@
     
         <entry>
             <title type="text">Csharp01</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/develop/csharp01/" />
-            <id>https://desultory.space/posts/develop/csharp01/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/develop/csharp01/" />
+            <id>https://blog.desultory.space/posts/develop/csharp01/</id>
             <updated>2021-06-08T13:08:19+08:00</updated>
             <published>2021-06-08T12:37:24+08:00</published>
             <author>
@@ -252,7 +252,7 @@
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -260,7 +260,7 @@
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/develop/" term="develop" label="develop" />
+                            <category scheme="https://blog.desultory.space/posts/develop/" term="develop" label="develop" />
                         
                     
                 
@@ -273,19 +273,19 @@
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%B8%B8%E6%88%8F/" term="游戏" label="游戏" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%B8%B8%E6%88%8F/" term="游戏" label="游戏" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/unity/" term="Unity" label="Unity" />
+                                <category scheme="https://blog.desultory.space/tags/unity/" term="Unity" label="Unity" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                             
@@ -299,8 +299,8 @@
     
         <entry>
             <title type="text">RyobaBeta-01</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/ryoba/ryobetaproj001/" />
-            <id>https://desultory.space/posts/ryoba/ryobetaproj001/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/ryoba/ryobetaproj001/" />
+            <id>https://blog.desultory.space/posts/ryoba/ryobetaproj001/</id>
             <updated>2021-05-08T23:44:24+08:00</updated>
             <published>2021-05-04T21:29:17+08:00</published>
             <author>
@@ -354,7 +354,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -362,7 +362,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/ryoba/" term="Ryoba" label="Ryoba" />
+                            <category scheme="https://blog.desultory.space/posts/ryoba/" term="Ryoba" label="Ryoba" />
                         
                     
                 
@@ -375,7 +375,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/ryoba/" term="Ryoba" label="Ryoba" />
+                                <category scheme="https://blog.desultory.space/tags/ryoba/" term="Ryoba" label="Ryoba" />
                             
                         
                     
@@ -385,8 +385,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
     
         <entry>
             <title type="text">政协Logo设计案001</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/logo/" />
-            <id>https://desultory.space/posts/thoughts/logo/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/logo/" />
+            <id>https://blog.desultory.space/posts/thoughts/logo/</id>
             <updated>2021-05-08T23:25:24+08:00</updated>
             <published>2021-04-18T13:30:09+08:00</published>
             
@@ -445,7 +445,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -453,7 +453,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
+                            <category scheme="https://blog.desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
                         
                     
                 
@@ -466,7 +466,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/wuhuno.1/" term="WuHuNO.1" label="WuHuNO.1" />
+                                <category scheme="https://blog.desultory.space/tags/wuhuno.1/" term="WuHuNO.1" label="WuHuNO.1" />
                             
                         
                     
@@ -476,8 +476,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
     
         <entry>
             <title type="text">Manim003</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/python/manim003/" />
-            <id>https://desultory.space/posts/python/manim003/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/python/manim003/" />
+            <id>https://blog.desultory.space/posts/python/manim003/</id>
             <updated>2020-10-19T15:33:09+08:00</updated>
             <published>2020-10-19T15:21:20+08:00</published>
             <author>
@@ -824,7 +824,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -832,7 +832,7 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/python/" term="Python" label="Python" />
+                            <category scheme="https://blog.desultory.space/posts/python/" term="Python" label="Python" />
                         
                     
                 
@@ -845,13 +845,13 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/python/" term="Python" label="Python" />
+                                <category scheme="https://blog.desultory.space/tags/python/" term="Python" label="Python" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/develop/" term="Develop" label="Develop" />
+                                <category scheme="https://blog.desultory.space/tags/develop/" term="Develop" label="Develop" />
                             
                         
                             
@@ -865,8 +865,8 @@ curl -LJO https://github.com/mozilla/geckodriver/releases/download/v0.29.1/gecko
     
         <entry>
             <title type="text">HugoShortcodes</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/website/hugoshortcodes/" />
-            <id>https://desultory.space/posts/website/hugoshortcodes/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/website/hugoshortcodes/" />
+            <id>https://blog.desultory.space/posts/website/hugoshortcodes/</id>
             <updated>2021-05-08T23:39:37+08:00</updated>
             <published>2020-09-19T23:40:39+08:00</published>
             <author>
@@ -1691,7 +1691,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -1699,7 +1699,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/website/" term="website" label="website" />
+                            <category scheme="https://blog.desultory.space/posts/website/" term="website" label="website" />
                         
                     
                 
@@ -1712,7 +1712,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
                             
                         
                     
@@ -1722,8 +1722,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
     
         <entry>
             <title type="text">乡土中国</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/reading001/" />
-            <id>https://desultory.space/posts/thoughts/reading001/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/reading001/" />
+            <id>https://blog.desultory.space/posts/thoughts/reading001/</id>
             <updated>2021-01-08T20:36:22+08:00</updated>
             <published>2020-09-18T23:10:51+08:00</published>
             <author>
@@ -1782,7 +1782,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -1790,7 +1790,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
+                            <category scheme="https://blog.desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
                         
                     
                 
@@ -1803,7 +1803,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/reading/" term="READING" label="READING" />
+                                <category scheme="https://blog.desultory.space/tags/reading/" term="READING" label="READING" />
                             
                         
                     
@@ -1813,8 +1813,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
     
         <entry>
             <title type="text">论Manim在教学中的应用</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/python/manim002/" />
-            <id>https://desultory.space/posts/python/manim002/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/python/manim002/" />
+            <id>https://blog.desultory.space/posts/python/manim002/</id>
             <updated>2020-10-19T15:30:40+08:00</updated>
             <published>2020-08-28T16:24:54+08:00</published>
             <author>
@@ -2110,7 +2110,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2118,7 +2118,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/python/" term="Python" label="Python" />
+                            <category scheme="https://blog.desultory.space/posts/python/" term="Python" label="Python" />
                         
                     
                 
@@ -2131,13 +2131,13 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/python/" term="Python" label="Python" />
+                                <category scheme="https://blog.desultory.space/tags/python/" term="Python" label="Python" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/develop/" term="Develop" label="Develop" />
+                                <category scheme="https://blog.desultory.space/tags/develop/" term="Develop" label="Develop" />
                             
                         
                             
@@ -2151,8 +2151,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
     
         <entry>
             <title type="text">Manim的初应用</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/python/manim001/" />
-            <id>https://desultory.space/posts/python/manim001/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/python/manim001/" />
+            <id>https://blog.desultory.space/posts/python/manim001/</id>
             <updated>2020-08-28T18:10:30+08:00</updated>
             <published>2020-08-05T12:37:27+08:00</published>
             <author>
@@ -2425,7 +2425,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2433,7 +2433,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/python/" term="Python" label="Python" />
+                            <category scheme="https://blog.desultory.space/posts/python/" term="Python" label="Python" />
                         
                     
                 
@@ -2446,19 +2446,19 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/python/" term="Python" label="Python" />
+                                <category scheme="https://blog.desultory.space/tags/python/" term="Python" label="Python" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/develop/" term="Develop" label="Develop" />
+                                <category scheme="https://blog.desultory.space/tags/develop/" term="Develop" label="Develop" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/manim/" term="Manim" label="Manim" />
+                                <category scheme="https://blog.desultory.space/tags/manim/" term="Manim" label="Manim" />
                             
                         
                     
@@ -2468,8 +2468,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
     
         <entry>
             <title type="text">BFS-knight</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/develop/bfs/" />
-            <id>https://desultory.space/posts/develop/bfs/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/develop/bfs/" />
+            <id>https://blog.desultory.space/posts/develop/bfs/</id>
             <updated>2020-06-20T12:28:12+08:00</updated>
             <published>2020-06-14T23:31:11+08:00</published>
             <author>
@@ -2638,7 +2638,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2646,7 +2646,7 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/develop/" term="develop" label="develop" />
+                            <category scheme="https://blog.desultory.space/posts/develop/" term="develop" label="develop" />
                         
                     
                 
@@ -2659,13 +2659,13 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E7%AE%97%E6%B3%95/" term="算法" label="算法" />
+                                <category scheme="https://blog.desultory.space/tags/%E7%AE%97%E6%B3%95/" term="算法" label="算法" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/bfs/" term="BFS" label="BFS" />
+                                <category scheme="https://blog.desultory.space/tags/bfs/" term="BFS" label="BFS" />
                             
                         
                     
@@ -2675,8 +2675,8 @@ To see a world in a grain of sand. And a heaven in a wild flower. Hold infinity 
     
         <entry>
             <title type="text">使用VSCODE学习Python</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/python/firstatall/" />
-            <id>https://desultory.space/posts/python/firstatall/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/python/firstatall/" />
+            <id>https://blog.desultory.space/posts/python/firstatall/</id>
             <updated>2020-08-05T13:07:47+08:00</updated>
             <published>2020-06-10T22:26:02+08:00</published>
             <author>
@@ -2811,7 +2811,7 @@ C:\&gt; _
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2819,7 +2819,7 @@ C:\&gt; _
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/python/" term="Python" label="Python" />
+                            <category scheme="https://blog.desultory.space/posts/python/" term="Python" label="Python" />
                         
                     
                 
@@ -2832,13 +2832,13 @@ C:\&gt; _
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/python/" term="Python" label="Python" />
+                                <category scheme="https://blog.desultory.space/tags/python/" term="Python" label="Python" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/develop/" term="Develop" label="Develop" />
+                                <category scheme="https://blog.desultory.space/tags/develop/" term="Develop" label="Develop" />
                             
                         
                     
@@ -2848,8 +2848,8 @@ C:\&gt; _
     
         <entry>
             <title type="text">DotNet</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/develop/dotnet/" />
-            <id>https://desultory.space/posts/develop/dotnet/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/develop/dotnet/" />
+            <id>https://blog.desultory.space/posts/develop/dotnet/</id>
             <updated>2020-06-20T12:28:07+08:00</updated>
             <published>2020-04-17T23:39:34+08:00</published>
             <author>
@@ -2882,7 +2882,7 @@ C:\&gt; _
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2890,7 +2890,7 @@ C:\&gt; _
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/develop/" term="develop" label="develop" />
+                            <category scheme="https://blog.desultory.space/posts/develop/" term="develop" label="develop" />
                         
                     
                 
@@ -2903,13 +2903,13 @@ C:\&gt; _
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/windows/" term="Windows" label="Windows" />
+                                <category scheme="https://blog.desultory.space/tags/windows/" term="Windows" label="Windows" />
                             
                         
                     
@@ -2919,8 +2919,8 @@ C:\&gt; _
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/website/hello-world/" />
-            <id>https://desultory.space/posts/website/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/website/hello-world/" />
+            <id>https://blog.desultory.space/posts/website/hello-world/</id>
             <updated>2020-06-20T12:27:25+08:00</updated>
             <published>2020-04-16T09:10:51+08:00</published>
             <author>
@@ -2946,7 +2946,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -2954,7 +2954,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/website/" term="website" label="website" />
+                            <category scheme="https://blog.desultory.space/posts/website/" term="website" label="website" />
                         
                     
                 
@@ -2967,13 +2967,13 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/hugo/" term="Hugo" label="Hugo" />
+                                <category scheme="https://blog.desultory.space/tags/hugo/" term="Hugo" label="Hugo" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/meme/" term="“MemE”" label="“MemE”" />
+                                <category scheme="https://blog.desultory.space/tags/meme/" term="“MemE”" label="“MemE”" />
                             
                         
                     
@@ -2983,8 +2983,8 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
     
         <entry>
             <title type="text">Where&#39;s Home project</title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/thoughts/wheres-home-project/" />
-            <id>https://desultory.space/posts/thoughts/wheres-home-project/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/wheres-home-project/" />
+            <id>https://blog.desultory.space/posts/thoughts/wheres-home-project/</id>
             <updated>2020-06-13T13:43:31+08:00</updated>
             <published>2020-02-16T09:10:51+08:00</published>
             <author>
@@ -3129,7 +3129,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
@@ -3137,7 +3137,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
+                            <category scheme="https://blog.desultory.space/posts/thoughts/" term="thoughts" label="thoughts" />
                         
                     
                 
@@ -3150,13 +3150,13 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/" term="游戏策划" label="游戏策划" />
+                                <category scheme="https://blog.desultory.space/tags/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92/" term="游戏策划" label="游戏策划" />
                             
                         
                             
                             
                             
-                                <category scheme="https://desultory.space/tags/unity/" term="Unity" label="Unity" />
+                                <category scheme="https://blog.desultory.space/tags/unity/" term="Unity" label="Unity" />
                             
                         
                     
@@ -3166,8 +3166,8 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
     
         <entry>
             <title type="text"></title>
-            <link rel="alternate" type="text/html" href="https://desultory.space/posts/more-actionsperiodactivitys6/" />
-            <id>https://desultory.space/posts/more-actionsperiodactivitys6/</id>
+            <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/more-actionsperiodactivitys6/" />
+            <id>https://blog.desultory.space/posts/more-actionsperiodactivitys6/</id>
             <updated>0001-01-01T00:00:00+00:00</updated>
             <published>0001-01-01T00:00:00+00:00</published>
             <author>
@@ -3279,7 +3279,7 @@ Hexo昨天搞崩溃了啊。QAQ，太难了。所以换到了Hugo;
                     
                     
                         
-                            <category scheme="https://desultory.space/posts/" term="posts" label="posts" />
+                            <category scheme="https://blog.desultory.space/posts/" term="posts" label="posts" />
                         
                     
                 
