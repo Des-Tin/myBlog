@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白的天马行空</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-21T23:30:49+08:00</updated>
+    <updated>2021-06-21T23:38:55+08:00</updated>
     <id>https://blog.desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://blog.desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://blog.desultory.space/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">《一粒像素》（Apixels）游戏企划</title>
             <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/apixels/" />
             <id>https://blog.desultory.space/posts/thoughts/apixels/</id>
-            <updated>2021-06-21T23:25:49+08:00</updated>
+            <updated>2021-06-21T23:38:14+08:00</updated>
             <published>2021-06-17T12:48:54+08:00</published>
             <author>
                     <name>Desultory</name>
@@ -29,14 +29,13 @@
                     </author>
             <rights>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[本游戏企划所有版权由草台班子（GrassRoots Studio）游戏工作室所有。 《一……]]></summary>
+    <summary type="html"><![CDATA[本游戏企划所有版权由草台班子（GrassRoots Studio）游戏工作室所有。 策划……]]></summary>
             
                 <content type="html"><![CDATA[
 <div class="notice notice-warning" >
     <div class="notice-title"><svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 576 512"><path d="M570 440c18 32-5 72-42 72H48c-37 0-60-40-42-72L246 24c19-32 65-32 84 0l240 416zm-282-86a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/></svg></div><p>本游戏企划所有版权由草台班子（GrassRoots Studio）游戏工作室所有。</p></div>
-<h1 id="一粒像素apixels游戏企划">《一粒像素》（Apixels）游戏企划</h1>
-<h2 id="策划设定">策划设定</h2>
-<h3 id="概览">概览</h3>
+<h1 id="策划设定">策划设定</h1>
+<h2 id="概览">概览</h2>
 <ul>
 <li>开发平台：UNITY3D</li>
 <li>游戏风格：2D 像素</li>
@@ -45,36 +44,36 @@
 <li>发布平台：全平台（前期考虑web）</li>
 <li>开发人数：7-8（美术*3 、剧本*1、主程序*1、策划*1、服务端*1）</li>
 </ul>
-<h2 id="游戏背景设定">游戏背景设定</h2>
-<h3 id="世界观">世界观</h3>
-<h4 id="福灵书类似圣经">福灵书（类似圣经）</h4>
-<h5 id="起源">起源</h5>
+<h1 id="游戏背景设定">游戏背景设定</h1>
+<h2 id="世界观">世界观</h2>
+<h3 id="福灵书类似圣经">福灵书（类似圣经）</h3>
+<h4 id="起源">起源</h4>
 <p>因为显示技术的不够完善，游戏只能通过一个个方块来表示物体，像素风格就此诞生。伴随着游戏发展和风靡，玩家们的热情和爱融入到了像素们的身上，它们有了意识。悄然间，在人们不知道的地方……一个属于像素的世界诞生了。</p>
-<h5 id="神降">神降</h5>
+<h4 id="神降">神降</h4>
 <p>一粒粒有意识的像素，开始活动。就在无规律的活动中，元像素（MetaPixel）出现了。最先出现的是八个巨大且光亮的元像素，这八个元像素聚起了个八个像素团，开始化作了八个不同的身影，祂们一同诞生。祂们分别是：现实之「喵」、命运之「兔」、空想之「鹿」、创世之「白」、机械之「加」、坚定之「雪」、生命之「栗」、规则之「梓」。</p>
-<h5 id="创世">创世</h5>
+<h4 id="创世">创世</h4>
 <p>八位神灵看着漆黑空洞的世界，处在这个世界的祂们还有那无序乱动着的像素。祂们想要让世界充满活力，于是便开始用着最纯粹的力量：<br>
 「梓」以规则引导像素们聚合，「雪」稳固着世界的根基，「栗」赋予它们以生命，「鹿」「喵」「加」以属性为引塑造了【现实】、【空想】、【机械】三大种族，「兔」用命运之线构建起了“万素”的轨迹，「白」用创世之力将一切都汇聚在一起 形成了皮克索斯世界。</p>
-<h5 id="归去">归去</h5>
+<h4 id="归去">归去</h4>
 <p>八位神灵在创世过程中，耗尽了元像素的力量，陷入了沉睡。</p>
-<h4 id="基本概念">基本概念</h4>
-<h5 id="像素pix">像素（Pix）</h5>
+<h3 id="基本概念">基本概念</h3>
+<h4 id="像素pix">像素（Pix）</h4>
 <p>一种无意识的物质，是皮克索斯世界的根本组成要素。<br>
 因为将能量固定的时间是固定的，因此可作为货币使用。<br>
 （事实上皮克索斯世界的通用货币就是像素）<br>
 自创世之后，受「梓」的规则之力约束，失去能量-物质的同在性，在静止后只以像素形式存在。</p>
-<h5 id="素能pie">素能（PiE）</h5>
+<h4 id="素能pie">素能（PiE）</h4>
 <p>一种特殊能量，是像素的能量态。因受到「梓」的规则之力约束，像素只能以能量形式运动。</p>
-<h5 id="元像素metapixel">元像素（MetaPixel）</h5>
+<h4 id="元像素metapixel">元像素（MetaPixel）</h4>
 <p>一种具有意识的特殊物质，可以聚合无主像素。主要由素能（Pie）、像素（Pix）在亲代元像素（需要两个）的引导下形成。现存所有像素生灵的元像素都是由 三大神元像素（【现实】【空想【机械】） 引导，从神元像素中分离出来的。<br>
 神元像素的产生方式未知。（产生方式是项目组加入）</p>
-<h5 id="聚合像素multipixel">聚合像素（MultiPixel）</h5>
+<h4 id="聚合像素multipixel">聚合像素（MultiPixel）</h4>
 <p>由元像素聚合无主像素产生的像素生命的总称。</p>
-<h5 id="像素属性pixelrace">像素属性（PixelRace）</h5>
+<h4 id="像素属性pixelrace">像素属性（PixelRace）</h4>
 <p>聚合像素的属性，可以理解为种族，分别是三大神元像素（【现实】【空想】【机械】）所引导的不同类别的像素。<br>
 现实（现实存在）；空想（空想事物） ；机械（机械or半机械事物）<br>
 克制关系：机械———》现实————》空想————》机械</p>
-<h5 id="像素序列pixelformation像素等级pixellevel">像素序列（PixelFormation）&amp;像素等级（PixelLevel）</h5>
+<h4 id="像素序列pixelformation像素等级pixellevel">像素序列（PixelFormation）&amp;像素等级（PixelLevel）</h4>
 <ul>
 <li>
 <p>可以构成进化关系的一组聚合像素称之为聚合像素。</p>
@@ -105,46 +104,46 @@
 <li>
 <p>实例：「吐兔」序列，该序列一共有四个阶段。普通、稀有、史诗、天外，分别是 mini兔 兔叽 吐兔 兔总（「兔」）（吐兔的这几个具体名字 还得想想，先类比一下）</p>
 <ul>
-<li>三个mini兔 = 一个兔叽，三个兔叽 = 一个吐兔， 三个兔兔 = 一个「兔」。</li>
+<li>三个mini兔 # 一个兔叽，三个兔叽 # 一个吐兔， 三个兔兔 # 一个「兔」。</li>
 </ul>
 </li>
 </ul>
-<h4 id="隐藏概念">隐藏概念</h4>
-<h5 id="八神核心">八神核心</h5>
-<h5 id="世界本质">世界本质</h5>
-<h5 id="update">Update</h5>
-<h5 id="fix">Fix</h5>
-<h2 id="游戏玩法设定">游戏玩法设定</h2>
-<h3 id="单人">单人</h3>
-<h4 id="模式">模式</h4>
-<h5 id="主线故事">主线故事</h5>
-<h5 id="单纯游戏">单纯游戏</h5>
-<h4 id="主要玩法">主要玩法</h4>
+<h3 id="隐藏概念">隐藏概念</h3>
+<h4 id="八神核心">八神核心</h4>
+<h4 id="世界本质">世界本质</h4>
+<h4 id="update">Update</h4>
+<h4 id="fix">Fix</h4>
+<h1 id="游戏玩法设定">游戏玩法设定</h1>
+<h2 id="单人">单人</h2>
+<h3 id="模式">模式</h3>
+<h4 id="主线故事">主线故事</h4>
+<h4 id="单纯游戏">单纯游戏</h4>
+<h3 id="主要玩法">主要玩法</h3>
 <ul>
 <li>宝可梦式的回合对战 &amp; 类似捕捉</li>
 <li>Pixels的养成和收集</li>
 <li>在收集资源中的音游玩法</li>
 </ul>
-<h4 id="社交拓展">社交拓展</h4>
+<h3 id="社交拓展">社交拓展</h3>
 <ul>
 <li>玩家社区</li>
 <li>官方wiki</li>
 </ul>
-<h3 id="多人暂缓">多人（暂缓）</h3>
-<h3 id="数值计算">数值计算</h3>
+<h2 id="多人暂缓">多人（暂缓）</h2>
+<h2 id="数值计算">数值计算</h2>
 <ul>
 <li>注意：$\left\lfloor \right\rfloor$是取整函数 向下取整</li>
-<li>即：$\left\lfloor 3.5 \right\rfloor = 3$</li>
+<li>即：$\left\lfloor 3.5 \right\rfloor # 3$</li>
 </ul>
-<h4 id="ivs">IVs</h4>
+<h3 id="ivs">IVs</h3>
 <ul>
 <li>即Individual Value</li>
 <li>是Pixels的个体值</li>
 <li>在获取Pixels的时候随机生成</li>
 <li>ATK DEF SPD 的IV数值范围为0-16</li>
-<li>HP的IV数值=$\left\lfloor \frac{ATK+DEF+SPD}{3} \right\rfloor$.</li>
+<li>HP的IV数值#$\left\lfloor \frac{ATK+DEF+SPD}{3} \right\rfloor$.</li>
 </ul>
-<h4 id="evs">EVs</h4>
+<h3 id="evs">EVs</h3>
 <ul>
 <li>即Effort Value</li>
 <li>是Pixels的努力值 取值$\left[0,65535\right]$</li>
@@ -158,55 +157,55 @@
 </li>
 <li>满级时不可获取</li>
 </ul>
-<h4 id="可控等级">可控等级</h4>
+<h3 id="可控等级">可控等级</h3>
 <ul>
 <li>当Pixels的等级超过玩家的可控等级时，玩家不可以使用该Pixels</li>
-<li>$maxPixelsLevel = 2 \times nowPlayeLevel + 2$</li>
+<li>$maxPixelsLevel # 2 \times nowPlayeLevel + 2$</li>
 </ul>
-<h4 id="pixelslevel">pixelsLEVEL</h4>
-<h5 id="战斗获取exp数值">战斗获取EXP数值</h5>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
+<h3 id="pixelslevel">pixelsLEVEL</h3>
+<h4 id="战斗获取exp数值">战斗获取EXP数值</h4>
+<p>$gainExp#\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
 <ul>
-<li>levelModify(等级修正)=$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
-<li>playerModify(玩家修正)：如果为玩家=$1.5$；如果为野生=$1.0 $</li>
+<li>levelModify(等级修正)#$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
+<li>playerModify(玩家修正)：如果为玩家#$1.5$；如果为野生#$1.0 $</li>
 </ul>
-<h5 id="升级需要的exp">升级需要的EXP</h5>
-<p>$needExp=\left(nowLevel\right)^3$</p>
-<h5 id="pixels合成后的等级">pixels合成后的等级</h5>
-<p>$newPixelsLevel = higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
-<h4 id="playerlevel">playerLEVEL</h4>
-<h5 id="战斗获取exp数值-1">战斗获取EXP数值</h5>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
-<h5 id="升级需要的exp-1">升级需要的EXP</h5>
-<p>$needExp=3\times\left(nowLevel\right)^3$</p>
-<h4 id="hp">HP</h4>
-<h5 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h5>
-<p>$valueHP = \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
-<h5 id="hpev">HPEV</h5>
-<p>$HPEV = nowHPEV + defeatedPixelsBaseHP$</p>
-<h4 id="atk">ATK</h4>
-<h5 id="valueatk-游戏实际数值">valueATK 游戏实际数值</h5>
-<p>$valueATK = \left\lfloor \left( pixelsBaseATK + ATKIV +  \left\lfloor  \frac{\sqrt{ATKEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
-<h5 id="atkev">ATKEV</h5>
-<p>$ATKEV = nowATKEV + defeatedPixelsBaseATK$</p>
-<h4 id="def">DEF</h4>
-<h5 id="valuedef--游戏实际数值">valueDEF  游戏实际数值</h5>
-<p>$valueDEF = \left\lfloor \left( pixelsBaseDEF + DEFIV +  \left\lfloor  \frac{\sqrt{DEFEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
-<h5 id="defev">DEFEV</h5>
-<p>$DEFEV = nowDEFEV + defeatedPixelsBaseDEF$</p>
-<h4 id="spd">SPD</h4>
-<h5 id="valuespd游戏实际数值">valueSPD游戏实际数值</h5>
-<p>$valueSPD = \left\lfloor \left( pixelsBaseSPD + SPDIV +  \left\lfloor  \frac{\sqrt{SPDEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
-<h5 id="spdev">SPDEV</h5>
-<p>$SPDEV = nowSPDEV + defeatedPixelsBaseSPD$</p>
-<h2 id="游戏美术设定">游戏美术设定</h2>
-<h3 id="拟人规则">拟人规则</h3>
+<h4 id="升级需要的exp">升级需要的EXP</h4>
+<p>$needExp#\left(nowLevel\right)^3$</p>
+<h4 id="pixels合成后的等级">pixels合成后的等级</h4>
+<p>$newPixelsLevel # higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
+<h3 id="playerlevel">playerLEVEL</h3>
+<h4 id="战斗获取exp数值-1">战斗获取EXP数值</h4>
+<p>$gainExp#\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
+<h4 id="升级需要的exp-1">升级需要的EXP</h4>
+<p>$needExp#3\times\left(nowLevel\right)^3$</p>
+<h3 id="hp">HP</h3>
+<h4 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h4>
+<p>$valueHP # \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
+<h4 id="hpev">HPEV</h4>
+<p>$HPEV # nowHPEV + defeatedPixelsBaseHP$</p>
+<h3 id="atk">ATK</h3>
+<h4 id="valueatk-游戏实际数值">valueATK 游戏实际数值</h4>
+<p>$valueATK # \left\lfloor \left( pixelsBaseATK + ATKIV +  \left\lfloor  \frac{\sqrt{ATKEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h4 id="atkev">ATKEV</h4>
+<p>$ATKEV # nowATKEV + defeatedPixelsBaseATK$</p>
+<h3 id="def">DEF</h3>
+<h4 id="valuedef--游戏实际数值">valueDEF  游戏实际数值</h4>
+<p>$valueDEF # \left\lfloor \left( pixelsBaseDEF + DEFIV +  \left\lfloor  \frac{\sqrt{DEFEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h4 id="defev">DEFEV</h4>
+<p>$DEFEV # nowDEFEV + defeatedPixelsBaseDEF$</p>
+<h3 id="spd">SPD</h3>
+<h4 id="valuespd游戏实际数值">valueSPD游戏实际数值</h4>
+<p>$valueSPD # \left\lfloor \left( pixelsBaseSPD + SPDIV +  \left\lfloor  \frac{\sqrt{SPDEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h4 id="spdev">SPDEV</h4>
+<p>$SPDEV # nowSPDEV + defeatedPixelsBaseSPD$</p>
+<h1 id="游戏美术设定">游戏美术设定</h1>
+<h2 id="拟人规则">拟人规则</h2>
 <ul>
 <li>如果是有进化序列的话 最后一个拟人。</li>
 <li>例子：草 小草 大草 老草  ；猫崽崽 小猫   ；小花 花 大花<br>
 拟人的是老草 小猫 大花</li>
 </ul>
-<h3 id="尺寸">尺寸</h3>
+<h2 id="尺寸">尺寸</h2>
 <ul>
 <li>尺寸是指画布尺寸，实际内容可以小于画布。</li>
 <li>角色立绘
@@ -223,13 +222,13 @@
 </ul>
 </li>
 </ul>
-<h2 id="剧情设定">剧情设定</h2>
-<h3 id="大致主线">大致主线</h3>
+<h1 id="剧情设定">剧情设定</h1>
+<h2 id="大致主线">大致主线</h2>
 <p>我（平面设计师） 发现自己的电脑屏幕有个像素在疯狂乱动，盯了一会儿，突然进入了皮克索世界（由N大主神创造，分别为（制作组）「开始中二」）， 然后发现自己是一个小“像素”（实际是一个元像素）。然后摸索到新手村（得取个名字），然后在热心的村民（有曼德拉草族…还有你们继续加）的帮助下开始构建起自己的聚合像素形象和特性（初始像素）。在熟悉这个世界的过程里，村子遭到反派攻击 。<br>
 袭击过后发现村子外围充满了迷雾（长时间待久了会失去理智，同时迷雾会间或地散去，但是已经失去理智的聚合像素不会主动恢复），同时还有大量的失去理智的聚合像素。
 于是我 开始了去解救聚合像素 并邀请他们加入小队</p>
-<h2 id="ver10">ver1.0</h2>
-<h3 id="构建内容">构建内容</h3>
+<h1 id="ver10">ver1.0</h1>
+<h2 id="构建内容">构建内容</h2>
 <ul>
 <li>账号系统 （云存档）（X）</li>
 <li>第一个初始小镇</li>
