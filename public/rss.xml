@@ -23,7 +23,7 @@
         
             <copyright>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 20 Jun 2021 23:21:30 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 23:26:42 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://blog.desultory.space/rss.xml" />
         
@@ -50,11 +50,11 @@
 <li>游戏类型：弹幕躲避、收藏养成、回合制对战、音乐节奏</li>
 <li>受众人群：休闲、音游玩家</li>
 <li>发布平台：全平台（前期考虑web）</li>
-<li>开发人数：7-8（美术*4 、主程序*1、策划*1、服务端*1）</li>
+<li>开发人数：7-8（美术*3 、剧本*1、主程序*1、策划*1、服务端*1）</li>
 </ul>
 <h2 id="游戏背景设定">游戏背景设定</h2>
 <h3 id="世界观">世界观</h3>
-<h4 id="皮克索斯世界">皮克索斯世界</h4>
+<h4 id="福灵书类似圣经">福灵书（类似圣经）</h4>
 <h5 id="起源">起源</h5>
 <p>因为显示技术的不够完善，游戏只能通过一个个方块来表示物体，像素风格就此诞生。伴随着游戏发展和风靡，玩家们的热情和爱融入到了像素们的身上，它们有了意识。悄然间，在人们不知道的地方……一个属于像素的世界诞生了。</p>
 <h5 id="神降">神降</h5>
@@ -116,11 +116,96 @@
 </ul>
 </li>
 </ul>
+<h4 id="隐藏概念">隐藏概念</h4>
+<h5 id="八神核心">八神核心</h5>
+<h5 id="世界本质">世界本质</h5>
+<h5 id="update">Update</h5>
+<h5 id="fix">Fix</h5>
 <h2 id="游戏玩法设定">游戏玩法设定</h2>
 <h3 id="单人">单人</h3>
+<h4 id="模式">模式</h4>
+<h5 id="主线故事">主线故事</h5>
+<h5 id="单纯游戏">单纯游戏</h5>
 <h4 id="主要玩法">主要玩法</h4>
+<ul>
+<li>宝可梦式的回合对战 &amp; 类似捕捉</li>
+<li>Pixels的养成和收集</li>
+<li>在收集资源中的音游玩法</li>
+</ul>
 <h4 id="社交拓展">社交拓展</h4>
+<ul>
+<li>玩家社区</li>
+<li>官方wiki</li>
+</ul>
 <h3 id="多人暂缓">多人（暂缓）</h3>
+<h3 id="数值计算">数值计算</h3>
+<ul>
+<li>注意：$\left\lfloor \right\rfloor$是取整函数 向下取整</li>
+<li>即：$\left\lfloor 3.5 \right\rfloor = 3$</li>
+</ul>
+<h4 id="ivs">IVs</h4>
+<ul>
+<li>即Individual Value</li>
+<li>是Pixels的个体值</li>
+<li>在获取Pixels的时候随机生成</li>
+<li>ATK DEF SPD 的IV数值范围为0-16</li>
+<li>HP的IV数值=$\left\lfloor \frac{ATK+DEF+SPD}{3} \right\rfloor$.</li>
+</ul>
+<h4 id="evs">EVs</h4>
+<ul>
+<li>即Effort Value</li>
+<li>是Pixels的努力值 取值$\left[0,65535\right]$</li>
+<li>max的EV值可以给Pixels带来每种属性（HP, ATK, DEF, SPD）各126点的效果</li>
+<li>在Pixels与wildPixels战斗中获取
+<ul>
+<li>与玩家对战时不获取</li>
+<li>可以通过道具获取</li>
+<li>可以通过训练获取</li>
+</ul>
+</li>
+<li>满级时不可获取</li>
+</ul>
+<h4 id="可控等级">可控等级</h4>
+<ul>
+<li>当Pixels的等级超过玩家的可控等级时，玩家不可以使用该Pixels</li>
+<li>$maxPixelsLevel = 2 \times nowPlayeLevel + 2$</li>
+</ul>
+<h4 id="pixelslevel">pixelsLEVEL</h4>
+<h5 id="战斗获取exp数值">战斗获取EXP数值</h5>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
+<ul>
+<li>levelModify(等级修正)=$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
+<li>playerModify(玩家修正)：如果为玩家=$1.5$；如果为野生=$1.0 $</li>
+</ul>
+<h5 id="升级需要的exp">升级需要的EXP</h5>
+<p>$needExp=\left(nowLevel\right)^3$</p>
+<h5 id="pixels合成后的等级">pixels合成后的等级</h5>
+<p>$newPixelsLevel = higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
+<h4 id="playerlevel">playerLEVEL</h4>
+<h5 id="战斗获取exp数值-1">战斗获取EXP数值</h5>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
+<h5 id="升级需要的exp-1">升级需要的EXP</h5>
+<p>$needExp=3\times\left(nowLevel\right)^3$</p>
+<h4 id="hp">HP</h4>
+<h5 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h5>
+<p>$valueHP = \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
+<h5 id="hpev">HPEV</h5>
+<p>$HPEV = nowHPEV + defeatedPixelsBaseHP$</p>
+<h4 id="atk">ATK</h4>
+<h5 id="valueatk-游戏实际数值">valueATK 游戏实际数值</h5>
+<p>$valueATK = \left\lfloor \left( pixelsBaseATK + ATKIV +  \left\lfloor  \frac{\sqrt{ATKEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h5 id="atkev">ATKEV</h5>
+<p>$ATKEV = nowATKEV + defeatedPixelsBaseATK$</p>
+<h4 id="def">DEF</h4>
+<h5 id="valuedef--游戏实际数值">valueDEF  游戏实际数值</h5>
+<p>$valueDEF = \left\lfloor \left( pixelsBaseDEF + DEFIV +  \left\lfloor  \frac{\sqrt{DEFEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h5 id="defev">DEFEV</h5>
+<p>$DEFEV = nowDEFEV + defeatedPixelsBaseDEF$</p>
+<h4 id="spd">SPD</h4>
+<h5 id="valuespd游戏实际数值">valueSPD游戏实际数值</h5>
+<p>$valueSPD = \left\lfloor \left( pixelsBaseSPD + SPDIV +  \left\lfloor  \frac{\sqrt{SPDEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<h5 id="spdev">SPDEV</h5>
+<p>$SPDEV = nowSPDEV + defeatedPixelsBaseSPD$</p>
 <h2 id="游戏美术设定">游戏美术设定</h2>
 <h3 id="拟人规则">拟人规则</h3>
 <ul>
@@ -138,10 +223,10 @@
 </li>
 <li>游戏角色
 <ul>
-<li>普通（common）：32*32（px）</li>
-<li>稀有（rare）：64*64（px）</li>
-<li>史诗（epic）：128*128（px）</li>
-<li>天外（exotic）：128*128（px）<strong>【加上光源材质】</strong></li>
+<li>普通（common）：64*64（px）</li>
+<li>稀有（rare）：128*128（px）</li>
+<li>史诗（epic）：256*256（px）</li>
+<li>天外（exotic）：256*256（px）<strong>【加上光源材质】</strong></li>
 </ul>
 </li>
 </ul>
@@ -153,7 +238,7 @@
 <h2 id="ver10">ver1.0</h2>
 <h3 id="构建内容">构建内容</h3>
 <ul>
-<li>账号系统 （云存档）</li>
+<li>账号系统 （云存档）（X）</li>
 <li>第一个初始小镇</li>
 <li>对战 捕捉系统</li>
 <li>商店 货币系统</li>
