@@ -23,7 +23,7 @@
         
             <copyright>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 21 Jun 2021 23:39:11 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 23:41:48 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://blog.desultory.space/rss.xml" />
         
@@ -140,7 +140,7 @@
 <h2 id="数值计算">数值计算</h2>
 <ul>
 <li>注意：$\left\lfloor \right\rfloor$是取整函数 向下取整</li>
-<li>即：$\left\lfloor 3.5 \right\rfloor # 3$</li>
+<li>即：$\left\lfloor 3.5 \right\rfloor = 3$</li>
 </ul>
 <h3 id="ivs">IVs</h3>
 <ul>
@@ -167,44 +167,44 @@
 <h3 id="可控等级">可控等级</h3>
 <ul>
 <li>当Pixels的等级超过玩家的可控等级时，玩家不可以使用该Pixels</li>
-<li>$maxPixelsLevel # 2 \times nowPlayeLevel + 2$</li>
+<li>$maxPixelsLevel = 2 \times nowPlayeLevel + 2$</li>
 </ul>
 <h3 id="pixelslevel">pixelsLEVEL</h3>
 <h4 id="战斗获取exp数值">战斗获取EXP数值</h4>
-<p>$gainExp#\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
 <ul>
 <li>levelModify(等级修正)#$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
 <li>playerModify(玩家修正)：如果为玩家#$1.5$；如果为野生#$1.0 $</li>
 </ul>
 <h4 id="升级需要的exp">升级需要的EXP</h4>
-<p>$needExp#\left(nowLevel\right)^3$</p>
+<p>$needExp=\left(nowLevel\right)^3$</p>
 <h4 id="pixels合成后的等级">pixels合成后的等级</h4>
-<p>$newPixelsLevel # higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
+<p>$newPixelsLevel = higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
 <h3 id="playerlevel">playerLEVEL</h3>
 <h4 id="战斗获取exp数值-1">战斗获取EXP数值</h4>
-<p>$gainExp#\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
 <h4 id="升级需要的exp-1">升级需要的EXP</h4>
-<p>$needExp#3\times\left(nowLevel\right)^3$</p>
+<p>$needExp=3\times\left(nowLevel\right)^3$</p>
 <h3 id="hp">HP</h3>
 <h4 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h4>
-<p>$valueHP # \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
+<p>$valueHP = \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
 <h4 id="hpev">HPEV</h4>
-<p>$HPEV # nowHPEV + defeatedPixelsBaseHP$</p>
+<p>$HPEV = nowHPEV + defeatedPixelsBaseHP$</p>
 <h3 id="atk">ATK</h3>
 <h4 id="valueatk-游戏实际数值">valueATK 游戏实际数值</h4>
-<p>$valueATK # \left\lfloor \left( pixelsBaseATK + ATKIV +  \left\lfloor  \frac{\sqrt{ATKEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<p>$valueATK = \left\lfloor \left( pixelsBaseATK + ATKIV +  \left\lfloor  \frac{\sqrt{ATKEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
 <h4 id="atkev">ATKEV</h4>
-<p>$ATKEV # nowATKEV + defeatedPixelsBaseATK$</p>
+<p>$ATKEV = nowATKEV + defeatedPixelsBaseATK$</p>
 <h3 id="def">DEF</h3>
 <h4 id="valuedef--游戏实际数值">valueDEF  游戏实际数值</h4>
-<p>$valueDEF # \left\lfloor \left( pixelsBaseDEF + DEFIV +  \left\lfloor  \frac{\sqrt{DEFEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<p>$valueDEF = \left\lfloor \left( pixelsBaseDEF + DEFIV +  \left\lfloor  \frac{\sqrt{DEFEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
 <h4 id="defev">DEFEV</h4>
-<p>$DEFEV # nowDEFEV + defeatedPixelsBaseDEF$</p>
+<p>$DEFEV = nowDEFEV + defeatedPixelsBaseDEF$</p>
 <h3 id="spd">SPD</h3>
 <h4 id="valuespd游戏实际数值">valueSPD游戏实际数值</h4>
-<p>$valueSPD # \left\lfloor \left( pixelsBaseSPD + SPDIV +  \left\lfloor  \frac{\sqrt{SPDEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
+<p>$valueSPD = \left\lfloor \left( pixelsBaseSPD + SPDIV +  \left\lfloor  \frac{\sqrt{SPDEV}}{4}  \right\rfloor \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 5$</p>
 <h4 id="spdev">SPDEV</h4>
-<p>$SPDEV # nowSPDEV + defeatedPixelsBaseSPD$</p>
+<p>$SPDEV = nowSPDEV + defeatedPixelsBaseSPD$</p>
 <h1 id="游戏美术设定">游戏美术设定</h1>
 <h2 id="拟人规则">拟人规则</h2>
 <ul>
