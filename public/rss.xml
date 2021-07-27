@@ -23,7 +23,7 @@
         
             <copyright>[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 30 Jun 2021 23:45:40 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 13:34:32 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://blog.desultory.space/rss.xml" />
         
@@ -631,7 +631,7 @@
 </ul>
 <h3 id="pixelslevel">pixelsLEVEL</h3>
 <h4 id="战斗获取exp数值">战斗获取EXP数值</h4>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
 <ul>
 <li>levelModify(等级修正)#$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
 <li>playerModify(玩家修正)：如果为玩家#$1.5$；如果为野生#$1.0 $</li>
@@ -640,11 +640,6 @@
 <p>$needExp=\left(nowLevel\right)^3$</p>
 <h4 id="pixels合成后的等级">pixels合成后的等级</h4>
 <p>$newPixelsLevel = higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
-<h3 id="playerlevel">playerLEVEL</h3>
-<h4 id="战斗获取exp数值-1">战斗获取EXP数值</h4>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
-<h4 id="升级需要的exp-1">升级需要的EXP</h4>
-<p>$needExp=3\times\left(nowLevel\right)^3$</p>
 <h3 id="hp">HP</h3>
 <h4 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h4>
 <p>$valueHP = \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
@@ -697,7 +692,7 @@
 <h1 id="ver10">ver1.0</h1>
 <h2 id="构建内容">构建内容</h2>
 <ul>
-<li>账号系统 （云存档）（X）</li>
+<li>账号系统 （云存档）（）</li>
 <li>第一个初始小镇</li>
 <li>对战 捕捉系统</li>
 <li>商店 货币系统</li>

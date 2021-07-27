@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">白的天马行空</title>
     <subtitle type="html">Game,tech,life,love</subtitle>
-    <updated>2021-06-30T23:45:40+08:00</updated>
+    <updated>2021-07-27T13:34:32+08:00</updated>
     <id>https://blog.desultory.space/</id>
     <link rel="alternate" type="text/html" href="https://blog.desultory.space/" />
     <link rel="self" type="application/atom+xml" href="https://blog.desultory.space/atom.xml" />
@@ -494,7 +494,7 @@
             <title type="text">《一粒像素》（Apixels）游戏企划</title>
             <link rel="alternate" type="text/html" href="https://blog.desultory.space/posts/thoughts/apixels/" />
             <id>https://blog.desultory.space/posts/thoughts/apixels/</id>
-            <updated>2021-06-21T23:41:40+08:00</updated>
+            <updated>2021-07-24T12:28:36+08:00</updated>
             <published>2021-06-17T12:48:54+08:00</published>
             <author>
                     <name>Desultory</name>
@@ -638,7 +638,7 @@
 </ul>
 <h3 id="pixelslevel">pixelsLEVEL</h3>
 <h4 id="战斗获取exp数值">战斗获取EXP数值</h4>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {7}<em>levelModify</em>playerModify\right\rfloor$</p>
+<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
 <ul>
 <li>levelModify(等级修正)#$0.2\leq 1.0-0.25\times(playerPixels - oppsitePixels)\leq 1.0 $</li>
 <li>playerModify(玩家修正)：如果为玩家#$1.5$；如果为野生#$1.0 $</li>
@@ -647,11 +647,6 @@
 <p>$needExp=\left(nowLevel\right)^3$</p>
 <h4 id="pixels合成后的等级">pixels合成后的等级</h4>
 <p>$newPixelsLevel = higherLevel + \left\lfloor\frac{lowerLevel}{2}\right\rfloor$</p>
-<h3 id="playerlevel">playerLEVEL</h3>
-<h4 id="战斗获取exp数值-1">战斗获取EXP数值</h4>
-<p>$gainExp=\left\lfloor\frac{pixelsBaseXP*pixelsLevel}  {6}<em>levelModify</em>playerModify\right\rfloor$</p>
-<h4 id="升级需要的exp-1">升级需要的EXP</h4>
-<p>$needExp=3\times\left(nowLevel\right)^3$</p>
 <h3 id="hp">HP</h3>
 <h4 id="valuehp-游戏实际数值">valueHP 游戏实际数值</h4>
 <p>$valueHP = \left\lfloor \left( pixelsBaseHP + HPIV +  \left\lfloor  \frac{\sqrt{HPEV}}{4}  \right\rfloor + 50 \right) \times \frac{nowPixelsLevel}{50} \right\rfloor + 10$</p>
@@ -704,7 +699,7 @@
 <h1 id="ver10">ver1.0</h1>
 <h2 id="构建内容">构建内容</h2>
 <ul>
-<li>账号系统 （云存档）（X）</li>
+<li>账号系统 （云存档）（）</li>
 <li>第一个初始小镇</li>
 <li>对战 捕捉系统</li>
 <li>商店 货币系统</li>
